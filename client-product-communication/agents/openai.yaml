@@ -1,0 +1,4 @@
+interface:
+  display_name: "客户产品沟通流程"
+  short_description: "沉淀需求沟通、确认稿与交付发布流程"
+  default_prompt: "Use $client-product-communication to guide a product requirement conversation, produce confirmation artifacts, and publish the deliverables."
